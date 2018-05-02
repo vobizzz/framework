@@ -27,7 +27,7 @@ return array (
   'The :attribute has already been taken.' => '',
   'The :attribute is not a valid URL.' => '',
   'The :attribute is not a valid date.' => '',
-  'The :attribute may not be greater than :max characters.' => '',
+  'The :attribute may not be greater than :max characters.' => 'w',
   'The :attribute may not be greater than :max kilobytes.' => '',
   'The :attribute may not be greater than :max.' => '',
   'The :attribute may not have more than :max items.' => '',
